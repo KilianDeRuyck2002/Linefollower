@@ -19,4 +19,3 @@
 |15	  |Frame	            |PLA	                                  |Nieuw          |0,34	         |1	        |0,34     |
 
                                                                                               Totaal prijs: |52,95    |
-
