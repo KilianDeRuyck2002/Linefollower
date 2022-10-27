@@ -1,7 +1,6 @@
 ## bill of materials
 <br />
 |Nr.--|Naam---------------|Omschrijving---------------------|Nieuw/recup----|Prijs/Stuk----|Aantal----|Subtotaal|
-|-----|-------------------|---------------------------------|---------------|--------------|----------|---------|
 |1    |Microcontroller	  |Arduino Nano	                    |Nieuw          |5,4	         |1	        |5,4      |
 |2	  |Sensoren	          |QTR-8A	                          |Nieuw          |11,91	       |1	        |11,91    |
 |3	  |H-brug	            |DRV8833	                        |Nieuw          |1,6	         |1	        |1,6      |
