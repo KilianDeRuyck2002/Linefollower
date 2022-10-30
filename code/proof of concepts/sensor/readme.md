@@ -4,5 +4,3 @@ minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk va
 
 Programma:
 - Uitlezing van sensoren
-- Calibreren van de zwarte waardes (lijn)
-- Calibreren van de witte waardes (alles buiten de lijn)
