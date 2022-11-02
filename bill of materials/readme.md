@@ -18,6 +18,6 @@
 |13	  |Weerstand	       |Weerstand 10kΩ	               |Recup      |0	        |1	   |0        |
 |14	  |Prototype Board   |Double shielded board 50x70mm	 |Nieuw      |0,98	    |1	   |0,98     |
 |15	  |Frame	           |PLA	                           |Nieuw      |0,34	    |1	   |0,34     |
-|     |                  |                               |           |Totaal prijs:    |52,95    |
+|     |                  |                               |           |Totaal prijs:|   |52,95    |
                                                                         
                                                                                               
