@@ -10,15 +10,14 @@
 |5	  |Motoren	         |Gear motor 6V - 50:1	         |Nieuw      |7,2	      |2	   |14,4     |
 |6	  |Wielen	           |Wielen pair 32x7mm	           |Nieuw      |4,32	    |1	   |4,32     |
 |7	  |Batterij	         |Sunpadow 2S 7,4V	             |Nieuw      |10	      |1	   |10       |
-|8	  |Led	             |Led blauw 5V	                 |Recup      |0	        |1	   |0,49     |
-|9	  |Drukknop	         |Drukknop 	                     |Recup      |0	        |1	   |0,2      |
-|10	  |Schakelaar	       |Mini wipschakelaar AAN/UIT	   |Recup      |0	        |1	   |0,99     |
-|11	  |Weerstand	       |Weerstand 220Ω	               |Recup      |0	        |1	   |0,05     | 
-|12	  |Weerstand	       |Weerstand 1kΩ	                 |Recup      |0	        |3	   |0,15     |
-|13	  |Weerstand	       |Weerstand 10kΩ	               |Recup      |0	        |1	   |0,05     |
+|8	  |Led	             |Led blauw 5V	                 |Recup      |0	        |1	   |0        |
+|9	  |Drukknop	         |Drukknop 	                     |Recup      |0	        |1	   |0        |
+|10	  |Schakelaar	       |Mini wipschakelaar AAN/UIT	   |Recup      |0	        |1	   |0        |
+|11	  |Weerstand	       |Weerstand 220Ω	               |Recup      |0	        |1	   |0        | 
+|12	  |Weerstand	       |Weerstand 1kΩ	                 |Recup      |0	        |3	   |0        |
+|13	  |Weerstand	       |Weerstand 10kΩ	               |Recup      |0	        |1	   |0        |
 |14	  |Prototype Board   |Double shielded board 50x70mm	 |Nieuw      |0,98	    |1	   |0,98     |
 |15	  |Frame	           |PLA	                           |Nieuw      |0,34	    |1	   |0,34     |
-
                                                                          Totaal prijs: |52,95    |
                                                                         
                                                                                               
