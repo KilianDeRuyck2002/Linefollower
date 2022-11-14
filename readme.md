@@ -11,15 +11,15 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 microcontroller: ATmega328 (Arduino Nano)
 <br />
-motors: 
+motors: Gear motor 9V - 10:1
 <br />
-h-bridge:
+h-bridge: Adafruit TB6612
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: Lipo 3S 11,1V
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
 distance sensor - motors:
 <br />
