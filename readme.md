@@ -9,7 +9,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: ATmega328 (Arduino Nano)
 <br />
 motors: 
 <br />
