@@ -8,4 +8,4 @@ Code HC-05: 0000 of 1234
 Gebruik gemaakt van de "Serial Bluetooth Terminal" app
 
 ### gebruiksaanwijzing
-
+/
