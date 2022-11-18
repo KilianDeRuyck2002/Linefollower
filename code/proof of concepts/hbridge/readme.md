@@ -7,3 +7,6 @@ Programma:
 - Achterwaarts van 0 -> 255 -> 0
 - Links van 0 -> 255 -> 0
 - Rechts van 0 -> 255 -> 0
+
+Sidenote: DRV8833 mag een maximale spanning van 10,8V bedragen.
+=> Indien dit hoger is, dan zal de bluetooth module maar 3 weken meegaan zoals in mijn geval geweest.
