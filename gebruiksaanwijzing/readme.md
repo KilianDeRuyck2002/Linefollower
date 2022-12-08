@@ -1,5 +1,7 @@
 # Gebruiksaanwijzing
 
+Zie document 
+
 ### opladen / vervangen batterijen
 Deze line follower werkt met Lipo batterijen.
 
