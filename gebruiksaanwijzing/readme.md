@@ -1,7 +1,7 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Deze line follower werkt met Lipo batterijen.
 
 ### draadloze communicatie
 #### verbinding maken
