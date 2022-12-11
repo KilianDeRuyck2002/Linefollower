@@ -22,7 +22,7 @@ batteries: Lipo 3S 11,1V
 wireless communication: HC-05
 <br />
 distance sensor - motors:
-<br />
+<br />11 cm
 weight:
 <br />
 speed: 
