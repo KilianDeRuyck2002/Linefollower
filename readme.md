@@ -23,7 +23,7 @@ wireless communication: HC-05
 <br />
 distance sensor - motors: 110mm
 <br />
-weight:
+weight: 220g
 <br />
-speed: 
+speed: 0,906 m/s
 <br />
