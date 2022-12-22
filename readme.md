@@ -1,11 +1,10 @@
 # LineFollower
-
 <br />
 <br />
 [image] (https://user-images.githubusercontent.com/114825358/204818526-43ecddab-bf5f-4dcf-ae2d-a20b8682edb0.png)
 <br />
 <br />
-  
+
 ## specifications
 <br />
 microcontroller: ATmega328 (Arduino Nano)
