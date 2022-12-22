@@ -45,3 +45,6 @@ speed: 0,906 m/s
 7) Ook is er een finaal code geupload met een boost en brake principe, deze zal steeds voor de lange rechte stukken versnellen en dan bij de eerst volgende bocht kort remmen.
 <br />
 <br />
+8) Tip voor de motoren, kies voor de gearmotoren 1000rpm / 30:1.
+<br />
+<br />
