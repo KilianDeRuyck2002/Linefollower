@@ -1,11 +1,9 @@
 # LineFollower
-<br />
 [image] (https://user-images.githubusercontent.com/114825358/204818526-43ecddab-bf5f-4dcf-ae2d-a20b8682edb0.png)
 <br />
 <br />
 
 ## specifications
-<br />
 microcontroller: ATmega328 (Arduino Nano)
 <br />
 motors: Gear motor 9V - 10:1
@@ -26,7 +24,6 @@ speed: 0,906 m/s
 <br />
 
 ## tips
-<br />
 1) Zorg dat de batterij zo dicht mogelijk bij de motoren staan. Zorg dat deze een beetje voor de hartlijn van de motoren ligt zodat de line follower geen wheelie maakt maar toch het grootste gewicht ligt bij de aandrijving.
 <br />
 <br />
