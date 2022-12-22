@@ -46,3 +46,8 @@ speed: 0,906 m/s
 <br />
 <br />
 6) Bij de finaal code zal er een code te vinden zijn met library en zonder. De line follower is even snel met beide codes, alleen voor het programma kleiner te maken is het handig om met de library te werken.
+<br />
+<br />
+7) Ook is er een finaal code geupload met een boost en brake principe, deze zal steeds voor de lange rechte stukken versnellen en dan bij de eerst volgende bocht kort remmen.
+<br />
+<br />
